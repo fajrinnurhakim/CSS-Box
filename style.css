@@ -1,0 +1,87 @@
+/* index */
+header div {
+    height: 3rem;
+}
+
+#one {
+    width: 200px;
+    height: 200px;
+}
+
+#two {
+    width: 200px;
+    height: 200px;
+}
+
+#three {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    color: #C21010;
+}
+
+#one {
+    margin: 100px 0px 100px;
+    background-color: #C21010;
+    border: 2px solid #CFE8A9;
+    box-sizing: content-box;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
+#two {
+    margin: 30px 100px;
+    background-color: #E64848;
+    border-width: 2px;
+    border-color: #C21010;
+    border-style: dashed;
+    border-radius: 20%;
+    padding: 20px 0px 0px 20px;
+}
+
+#three {
+    margin: 20px 0px 0px 200px;
+    background-color: #CFE8A9;
+    border: 2px solid #E64848;
+    border-style: dotted;
+    border-radius: 50%;
+    padding: 80px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 20px 30px 20px 30px;
+    border: 1px solid#C21010;
+    border-radius: 10px;
+    color: #CFE8A9;
+    background-color: #E64848;
+
+}
+
+/* index */
+/* exercise */
+.card {
+    width: 210px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    border-width: 5px;
+    border-color: rgb(236, 183, 191);
+    border-style: solid;
+    border-radius: 50%;
+}
+
+/* exercise */
